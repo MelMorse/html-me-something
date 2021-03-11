@@ -1,0 +1,51 @@
+div {
+    padding: 50px 100px 50px 100px;
+}
+
+body{
+    background-color: honeydew;
+    padding: 50px 100px 50px 100px;
+    font-size: 25px;
+}
+
+main{
+    background-color: honeydew
+}
+h1 {
+    color: darkblue;
+    background-color:honeydew;
+    font-size: 70px;
+    text-align: center;
+}
+
+#firstParagraph {
+    background-color:honeydew;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 70px;
+}
+
+.photos {
+    text-align:center;
+    image-orientation: center;
+}
+
+h2 {
+    color: rgba(7, 11, 247, 0.966);
+    font-size: 40px;
+}
+
+#greenSection   {
+    background-color: rgb(181, 252, 159);
+}
+
+#lastParagraph  {
+    margin:  50px;
+    color: rgb(13, 80, 13);
+    font-size:  30px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 70px;
+}
